@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+
+}
+#menu{
+    background-color: rgb(221, 169, 73);
+}
+#menu ul{
+    max-width: 600px;
+    list-style: none;
+}
+#menu ul li{
+    display: inline;
+}
+#menu ul li a{
+    padding: 50px;
+    color: aliceblue;
+    text-decoration: none;
+    display: inline-block; 
+    transition: background .5s;
+
+}
+#menu ul li a:hover {
+    background-color: rgb(97, 92, 92);
+}
+
+h1 {
+
+    color: rgb(110, 91, 93);
+
+    padding-left: 550px;
+
+}
+
+strong  {
+
+    color: blue;
+
+}
+.imgOuro{
+    width: 700px;
+    padding-left: 540px;
+}
+.px {
+    padding-left: 220px ; 
+    font-size: large;
+}
+
+
+ 
