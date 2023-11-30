@@ -33,17 +33,17 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Adicionando ouvinte de evento para a imagem 2
     image2.addEventListener('mouseover', function () {
-        image2.src = 'https://www.shutterstock.com/image-vector/vector-illustration-rosa-parks-260nw-2311714221.jpg'; // Substitua 'nova-url-da-imagem-2.jpg' pela nova URL da imagem
+        image2.src = 'https://www.shutterstock.com/image-vector/vector-illustration-rosa-parks-260nw-2311714221.jpg'; 
     });
 
     // Adicionando ouvinte de evento para a imagem 3
     image3.addEventListener('mouseover', function () {
-        image3.src = 'https://www.shutterstock.com/image-vector/vector-illustration-rosa-parks-260nw-2311800123.jpg'; // Substitua 'nova-url-da-imagem-3.jpg' pela nova URL da imagem
+        image3.src = 'https://www.shutterstock.com/image-vector/vector-illustration-rosa-parks-260nw-2311800123.jpg'; 
     });
 
     // Adicionando ouvinte de evento para a imagem 4
     image4.addEventListener('mouseover', function () {
-        image4.src = 'https://www.shutterstock.com/image-vector/vector-illustration-rosa-parks-260nw-2311800119.jpg'; // Substitua 'nova-url-da-imagem-4.jpg' pela nova URL da imagem
+        image4.src = 'https://www.shutterstock.com/image-vector/vector-illustration-rosa-parks-260nw-2311800119.jpg'; 
     });
 
     // Restaurando as imagens quando o mouse sai
