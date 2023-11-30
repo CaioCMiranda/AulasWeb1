@@ -49,6 +49,9 @@ strong  {
     padding-left: 220px ; 
     font-size: large;
 }
+.hidden{
+    display: none;
+}
 
 
  
